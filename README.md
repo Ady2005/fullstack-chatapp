@@ -340,7 +340,7 @@ This project is open source and available under the ISC License.
 
 ## 👤 Author
 
-Created by [Your Name]
+Created by [Ady2005]
 
 ## 🙏 Acknowledgments
 
@@ -356,4 +356,4 @@ If you have any questions or issues, please open an issue on GitHub.
 ---
 
 **Happy Chatting! 💬**
->>>>>>> fa465dd (Initial commit: Full-stack chat application with React, Node.js, MongoDB, and Socket.io)
+
