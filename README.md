@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fullstack-chatapp
 Full-stack Real-time Chat Application built with the MERN stack (MongoDB, Express, React, Node.js). Features include real-time messaging using Socket.io, secure JWT authentication, and global state management with Redux Toolkit
 =======
@@ -351,7 +350,6 @@ Created by [Your Name]
 - MongoDB and Mongoose for database
 - Cloudinary for cloud storage
 
-## 📞 Support
 
 If you have any questions or issues, please open an issue on GitHub.
 
